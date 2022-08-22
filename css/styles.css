@@ -1,0 +1,24 @@
+html, body {
+    margin: 0;
+    background-color: rgb(118, 126, 126);
+    color: white;
+}
+.header{
+    text-align: center;
+    color: crimson;
+    background-color: black;
+    margin: 30px;
+    padding: 30px;
+}
+.container{
+    margin: 30px;
+}
+.carta{
+    position: relative;
+    width: 150px;
+    left: 100px;
+    margin: 20px -55px 0;
+}
+#machine-cartas, #jugador-cartas{
+   height: 220px;
+}
